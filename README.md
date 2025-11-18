@@ -4,7 +4,7 @@
 
 ## 🌐 Демо
 
-[Посмотреть сайт](https://muromtsev.github.io/soft-gallery/)
+[Посмотреть сайт](https://muromtsev.github.io/diy-gallery/)
 
 ## ✨ Особенности
 
