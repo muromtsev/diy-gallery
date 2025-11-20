@@ -1,16 +1,8 @@
+@use "./scss/reset";
+@use "./scss/variables" as vars;
+@use "./scss/base";
 
-.header-1 {
-  font-family: 'Roboto';
-  color: white;
 
-}
 
-.lightGallery-slider {
-  max-width: 900px;
-  
-}
 
-.inline-gallery-container {
-    width: 100%;        
-    padding-bottom: 60%;
-}
+

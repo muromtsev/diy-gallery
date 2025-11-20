@@ -1,0 +1,6 @@
+@use "./_variables" as vars;
+
+.header-1 {
+  font-family: vars.$font-header;
+  color: white;
+}

@@ -13,7 +13,12 @@
     ],
     "liveSassCompile.settings.excludeList": [
         "**/node_modules/**",
-        ".vscode/**"
+        ".vscode/**",
+        "/scss/_**"
+    ],
+    "liveSassCompile.settings.includeItems": [
+        "/scss/style.scss",
+        "/scss/custom.scss"
     ],
     "liveSassCompile.settings.generateMap": true,
     "liveSassCompile.settings.autoprefix": ["defaults"]
