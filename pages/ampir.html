@@ -14,7 +14,16 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery@2.9.0/css/lightgallery-bundle.min.css">
     <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.8.3/css/lg-thumbnail.min.css" integrity="sha512-rKuOh3xlF/027KUPuMok0ESsZ2zWPRzkniD3n5zZKCAtbiVkYw66DR4KtVAGf8dLPLr5DdyQs05BlSmEyXctkQ==" crossorigin="anonymous" referrerpolicy="no-referrer" /> -->
     <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.8.3/css/lg-zoom.min.css" integrity="sha512-S/hU6dGSK3D7SRpCvRF/IEufIr6Ikgp5vDiJarhdeFGEnw36hWZ6gVBjnwBbzjA+NEP7D8Gdm+5LL1HEsyiB1w==" crossorigin="anonymous" referrerpolicy="no-referrer" /> -->
-
+    <style>
+        .feature-list li {
+            margin-bottom: 10px;
+            padding-left: 10px;
+        }
+        .price-tag {
+            font-size: 1.8rem;
+            font-weight: bold;
+        }
+    </style>
 
 </head>
 
@@ -30,18 +39,57 @@ radial-gradient(hsla(0, 100%, 15%, 0.7), hsla(0, 100%, 20%, 0)) 50px 50px,
 linear-gradient(45deg, hsla(0, 100%, 20%, 0) 49%, hsla(0, 100%, 0%, 1) 50%, hsla(0, 100%, 20%, 0) 70%) 0 0,
 linear-gradient(-45deg, hsla(0, 100%, 20%, 0) 49%, hsla(0, 100%, 0%, 1) 50%, hsla(0, 100%, 20%, 0) 70%) 0 0;
 background-color: #300;
-background-size: 100px 100px;">
+background-size: 100px 100px;
+color: white;">
 
     <div class="container-fluid py-4">
         <div class="row">
             <div class="d-flex align-items-center justify-content-center gap-3">
-                <img src="../images/icons/logo.webp" alt="my" style="width: 60px; height: 60px; object-fit: contain;">
-                <h1 class="header-1 text-center display-4 mb-0">Ампир</h1>
-            </div>               
-                     
-            <div class="d-flex justify-content-center">
-                <div id="inline-gallery-container" class="inline-gallery-container"></div>
+                    <img src="../images/icons/logo.webp" alt="my" style="width: 60px; height: 60px; object-fit: contain;">
+                    <h1 class="header-1 text-center display-4 mb-0">Ампир</h1>
+                </div>
+            <div class="col-lg-6">
+                <div class="d-flex justify-content-center">
+                    <div id="inline-gallery-container" class="inline-gallery-container"></div>
+                </div>
             </div>
+            <div class="col-lg-6 mb-4 mb-lg-0">
+                
+                <div class="product-description">
+                    
+                    <h4 class="mt-4 mb-3">🛋️ Основные характеристики:</h4>
+                    <ul class="feature-list list-unstyled">
+                        <li><span class="feature-icon">✅</span> <strong>Назависимый пружинный блок (НПБ)</strong> - каждая пружина работает автономно, обеспечивая оптимальную поддержку тела</li>
+                        <li><span class="feature-icon">🛏️</span> <strong>Подушки с наполнителем Холофайбер</strong> - сохраняют форму, гипоаллергенны, легко восстанавливаются после сжатия</li>
+                        <li><span class="feature-icon">📦</span> <strong>Просторный бельевой ящик</strong> - дополнительное место для хранения постельного белья, подушек и других вещей</li>
+                        <li><span class="feature-icon">🔧</span> <strong>Простая сборка</strong> - готов к использованию через 5 минут после распаковки</li>
+                    </ul>
+                    
+                    <h4 class="mt-4 mb-3">📐 Размеры:</h4>
+                    <table class="specs-table mb-4">
+                        <tr>
+                            <td>Общие габариты (Д x Ш)</td>
+                            <td><strong>2270 x 1045</strong></td>
+                        </tr>
+                        <tr>
+                            <td>Спальное место (Д x Ш)</td>
+                            <td><strong>1950 x 1560 мм</strong></td>
+                        </tr>
+                        <tr>
+                            <td>Высота сиденья</td>
+                            <td><strong>450 мм</strong></td>
+                        </tr>
+                        <tr>
+                            <td>Глубина сиденья</td>
+                            <td><strong>600 мм</strong></td>
+                        </tr>
+                    </table>
+                    <div class="pt-3 border-top">
+                        <span class="price-tag">цена 27 450</span>
+                    </div> 
+                </div>
+                    
+                  
         </div>
             
             
