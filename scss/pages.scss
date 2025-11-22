@@ -1,0 +1,25 @@
+@use "./base";
+@use "./slider";
+
+.menu {
+    margin: 15px 0;
+    padding: 0 !important;
+    list-style: none;
+    a {
+        padding: 10px 10px;
+        color: white;
+        background-color: #0d6efd;
+        border-radius: 10px;
+    }
+}
+
+.feature-list li {
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
+    
+.price-tag {
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+

@@ -1,6 +1,10 @@
+body {
+  font-family: "Roboto" !important;
+  color: white !important;
+}
+
 .header-1 {
-  font-family: "Roboto", sans-serif;
-  color: white;
+  font-family: "Jura";
 }
 
 .inline-gallery-container {
@@ -53,4 +57,4 @@
 .lg-current.lg-slide-progress .lightGallery-captions h4,
 .lg-current.lg-slide-progress .lightGallery-captions p {
   transition-delay: 0ms;
-}/*# sourceMappingURL=custom.css.map */
+}/*# sourceMappingURL=slider.css.map */

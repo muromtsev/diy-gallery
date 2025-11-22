@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 </div>`,
             },
             {
-                src: '../images/sofas/ampir/large/large-amp1.webp',
+                src: '../images/sofas/ampir/large/large_amp1.webp',
                 thumb: '../images/sofas/ampir/thumb/mini_mini_amp1.webp',
                 subHtml: `<div class="lightGallery-captions">
                     <h4></h4>

@@ -1,6 +1,10 @@
 @use "./_variables" as vars;
 
+body {
+  font-family: vars.$font-main !important; 
+  color: white !important;
+}
+
 .header-1 {
   font-family: vars.$font-header;
-  color: white;
 }

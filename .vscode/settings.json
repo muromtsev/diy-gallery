@@ -17,8 +17,10 @@
         "/scss/_**"
     ],
     "liveSassCompile.settings.includeItems": [
-        "/scss/style.scss",
-        "/scss/custom.scss"
+        "/style.scss",        
+        "/scss/pages.scss",
+        "/scss/slider.scss",
+
     ],
     "liveSassCompile.settings.generateMap": true,
     "liveSassCompile.settings.autoprefix": ["defaults"]
