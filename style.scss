@@ -2,3 +2,7 @@
 @use "./scss/variables" as vars;
 @use "./scss/base";
 
+.header-5 {
+    font-family: vars.$font-header;
+}
+
