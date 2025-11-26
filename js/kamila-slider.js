@@ -181,14 +181,6 @@ document.addEventListener('DOMContentLoaded', function() {
                 </div>`,
             },
             {
-                src: '../images/sofas/kamila/2023-03-15_12-44-36_UTC_2.webp',
-                thumb: '../images/sofas/kamila/mini/2023-03-15_12-44-36_UTC_2.webp',
-                subHtml: `<div class="lightGallery-captions">
-                    <h4>Камила 2-секции</h4>
-                    <p>от 29 250</p>
-                </div>`,
-            },
-            {
                 src: '../images/sofas/kamila/2023-03-15_12-44-36_UTC_3.webp',
                 thumb: '../images/sofas/kamila/mini/2023-03-15_12-44-36_UTC_3.webp',
                 subHtml: `<div class="lightGallery-captions">

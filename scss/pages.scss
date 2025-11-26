@@ -11,3 +11,18 @@
     font-weight: bold;
 }
 
+.table {
+    
+}
+
+.table-transparent {
+    background-color: transparent !important;
+    
+    th,
+    td {
+        
+        background-color: transparent !important;
+        border-color: rgba(255,255,255,0.2) !important;
+        color: white !important;
+    }
+}

@@ -67,4 +67,14 @@ body {
 .price-tag {
   font-size: 1.8rem;
   font-weight: bold;
+}
+
+.table-transparent {
+  background-color: transparent !important;
+}
+.table-transparent th,
+.table-transparent td {
+  background-color: transparent !important;
+  border-color: rgba(255, 255, 255, 0.2) !important;
+  color: white !important;
 }/*# sourceMappingURL=pages.css.map */
