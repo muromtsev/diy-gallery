@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 thumb: '../images/sofas/compact_plus/mini/photo_2025-12-10_21-01-30.webp',
                 subHtml: `<div class="lightGallery-captions">
                     <h4>Компакт Плюс</h4>
-                    <p>???</p>
+                    <p>от 20 500</p>
                 </div>`,
             },
             {
@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 thumb: '../images/sofas/compact_plus/mini/photo_2025-12-10_21-01-33.webp',
                 subHtml: `<div class="lightGallery-captions">
                     <h4>Компакт Плюс</h4>
-                    <p>???</p>
+                    <p>от 20 500</p>
                 </div>`,
             },
             {
@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 thumb: '../images/sofas/compact_plus/mini/photo_2025-12-10_21-01-36.webp',
                 subHtml: `<div class="lightGallery-captions">
                     <h4>Компакт Плюс</h4>
-                    <p>???</p>
+                    <p>от 20 500</p>
                 </div>`,
             },
             {
@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 thumb: '../images/sofas/compact_plus/mini/photo_2025-12-10_21-01-42.webp',
                 subHtml: `<div class="lightGallery-captions">
                     <h4>Компакт Плюс</h4>
-                    <p>???</p>
+                    <p>от 20 500</p>
                 </div>`,
             },
             {
@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 thumb: '../images/sofas/compact_plus/mini/photo_2025-12-10_21-01-44.webp',
                 subHtml: `<div class="lightGallery-captions">
                     <h4>Компакт Плюс</h4>
-                    <p>???</p>
+                    <p>от 20 500</p>
                 </div>`,
             },
             {
@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 thumb: '../images/sofas/compact_plus/mini/photo_2025-12-10_21-01-51.webp',
                 subHtml: `<div class="lightGallery-captions">
                     <h4>Компакт Плюс</h4>
-                    <p>???</p>
+                    <p>от 20 500</p>
                 </div>`,
             },
             {
@@ -65,7 +65,25 @@ document.addEventListener('DOMContentLoaded', function() {
                 thumb: '../images/sofas/compact_plus/mini/photo_2025-12-10_21-01-55.webp',
                 subHtml: `<div class="lightGallery-captions">
                     <h4>Компакт Плюс</h4>
-                    <p>???</p>
+                    <p>от 20 500</p>
+                </div>`,
+            },
+            
+            {
+                src: '../images/sofas/compact_plus/photo_2025-12-11_20-39-51.webp',
+                thumb: '../images/sofas/compact_plus/mini/photo_2025-12-11_20-39-51.webp',
+                subHtml: `<div class="lightGallery-captions">
+                    <h4>Компакт Плюс</h4>
+                    <p>от 20 500</p>
+                </div>`,
+            },
+            
+            {
+                src: '../images/sofas/compact_plus/photo_2025-12-11_20-39-54.webp',
+                thumb: '../images/sofas/compact_plus/mini/photo_2025-12-11_20-39-54.webp',
+                subHtml: `<div class="lightGallery-captions">
+                    <h4>Компакт Плюс</h4>
+                    <p>от 20 500</p>
                 </div>`,
             },
             
